@@ -387,7 +387,7 @@ function gameover () {
 function resetGame () {
     round = 1;
     score = 0;
-    lives = 5;
+    lives = 50;
 }
 
 function startGame () {
